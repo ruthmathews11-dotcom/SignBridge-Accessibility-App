@@ -43,41 +43,6 @@ The current prototype demonstrates the core connection and booking workflow:
 4. **Interpreter response** – accept or decline a booking request through the demo interpreter portal.
 5. **Booking status** – reflect whether a request is pending, confirmed or declined.
 
-## Product walkthrough
-
-The gallery below gives a compact overview of the prototype. Select any screen to view the full-size screenshot.
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="screenshots/01-home-screen.jpg"><img src="screenshots/01-home-screen.jpg" width="150" alt="SignBridge home screen"></a><br>
-      <strong>1. Home screen</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="screenshots/02-interpreter-discovery.jpg"><img src="screenshots/02-interpreter-discovery.jpg" width="150" alt="Interpreter discovery"></a><br>
-      <strong>2. Interpreter discovery</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="screenshots/03-interpreter-profile.jpg"><img src="screenshots/03-interpreter-profile.jpg" width="150" alt="Interpreter profile"></a><br>
-      <strong>3. Interpreter profile</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="screenshots/04-interpreter-booking-requests.jpg"><img src="screenshots/04-interpreter-booking-requests.jpg" width="150" alt="Demo interpreter booking requests"></a><br>
-      <strong>4. Booking requests</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="screenshots/05-confirmed-bookings.jpg"><img src="screenshots/05-confirmed-bookings.jpg" width="150" alt="Confirmed bookings"></a><br>
-      <strong>5. Confirmed bookings</strong>
-    </td>
-    <td align="center" width="33%">
-      <a href="screenshots/06-booking-statuses-including-declined.jpg"><img src="screenshots/06-booking-statuses-including-declined.jpg" width="150" alt="Pending, confirmed and declined booking statuses"></a><br>
-      <strong>6. Booking statuses</strong>
-    </td>
-  </tr>
-</table>
-
 ## Current prototype limitations
 
 - The interpreter response workflow is demonstrated through a **demo interpreter portal within the patient-facing experience**; it is not a separate production interpreter account or login.
