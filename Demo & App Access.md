@@ -6,4 +6,4 @@
 
 Note: 
 1. This is an MVP prototype built using Emergent. The APK is intended for demonstration purposes.
-2. Download the Android APK on Phone for best experience
+2. Download the APK on an Android Phone for best experience
