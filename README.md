@@ -43,6 +43,28 @@ The current prototype demonstrates the core connection and booking workflow:
 4. **Interpreter response** – accept or decline a booking request through the demo interpreter portal.
 5. **Booking status** – reflect whether a request is pending, confirmed or declined.
 
+## Product walkthrough
+
+The screenshots below show the current prototype flow, from finding an interpreter to tracking a booking request.
+
+### 1. Home screen
+![SignBridge home screen](screenshots/01-home-screen.jpg)
+
+### 2. Interpreter discovery
+![Interpreter discovery](screenshots/02-interpreter-discovery.jpg)
+
+### 3. Interpreter profile
+![Interpreter profile](screenshots/03-interpreter-profile.jpg)
+
+### 4. Interpreter booking requests
+![Demo interpreter booking requests](screenshots/04-interpreter-booking-requests.jpg)
+
+### 5. Confirmed bookings
+![Confirmed bookings](screenshots/05-confirmed-bookings.jpg)
+
+### 6. Booking statuses
+![Pending, confirmed and declined booking statuses](screenshots/06-booking-statuses-including-declined.jpg)
+
 ## Current prototype limitations
 
 - The interpreter response workflow is demonstrated through a **demo interpreter portal within the patient-facing experience**; it is not a separate production interpreter account or login.
@@ -61,8 +83,8 @@ The project follows a focused MVP approach:
 ## Built with
 
 - **Emergent** – AI-assisted app development / vibe coding.
-- **Link** - https://app.emergent.sh/share-preview?app=exp%3A%2F%2Finterpret-care--715r7s2b.preview.emergentagent.com%3Fexpo_go_prompt_device_auth%3D1%26expo_go_device_auth_verification_uri_override%3Dapp.emergent.sh&job_id=984316c0-19b5-4d9d-935a-f1555c2790ff
-- **Note - Access the App with Expo Go**
+- **App preview:** [Open SignBridge preview](https://app.emergent.sh/share-preview?app=exp%3A%2F%2Finterpret-care--715r7s2b.preview.emergentagent.com%3Fexpo_go_prompt_device_auth%3D1%26expo_go_device_auth_verification_uri_override%3Dapp.emergent.sh&job_id=984316c0-19b5-4d9d-935a-f1555c2790ff)
+- **Note:** The preview may require Expo Go and device authentication.
 
 ## Legal reference
 
